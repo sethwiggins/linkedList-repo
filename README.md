@@ -1,5 +1,5 @@
-#Linked List#
+#Linked List
 
-##Included##
+##Included
 - Liked List Class
 - Node Class
